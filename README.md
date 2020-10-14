@@ -13,7 +13,7 @@
 | Exercice-4 | World map interactif | https://github.com/MDrapala/evaluationJS/tree/devel/exercice-4 |
 | Exercice-5 | Formulaire avec des regex | https://github.com/MDrapala/evaluationJS/tree/devel/exercice-5 |
 | Exercice-6 | Vérifie numéro de téléphone des regex | https://github.com/MDrapala/evaluationJS/tree/devel/exercice-6 |
-| ~~Exercice-7~~ | Calculer la moyenne générale | ------ |
+| Exercice-7 | Calculer la moyenne générale | https://github.com/MDrapala/evaluationJS/tree/devel/exercice-7 |
 | ~~Exercice-8~~ | Bataille navale | ------ |
 | ~~Exercice-9~~ | Check Palindrome | ------ |
 
