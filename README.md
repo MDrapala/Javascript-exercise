@@ -1,4 +1,3 @@
-# Evaluation Javascript
 # Consignes
 - Vous devez rendre l’intégralité des exercices dans une repertoire github public. Chaque exercice devra comprendre ses fichiers index.js et son index.html. Vous devrez me le remettre sur Slack via le document qui vous sera fournis. Chaque exercice devra être dans un sous-dossier avec comme nom “exercice-1”, “exercice-2” … (pour chaque exercice).
 
